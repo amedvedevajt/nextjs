@@ -12,7 +12,7 @@ export default function Home() {
                 <p>[Your Self Introduction]</p>
                 <p>
                     (This is a sample website - you’ll be building a site like this on{' '}
-                    <a href="https://test.alconost.com/ru/?next&hi-hi">our Next.js tutorial</a>.)
+                    <a href="https://test.alconost.com/ru/?next&hi&hi">our Next.js tutorial</a>.)
                 </p>
             </section>
         </Layout>
